@@ -9,9 +9,9 @@
 
 | Module / Topic | Theory | Diagram | Code | Test | Debugging | Interview | Project | Phase | Status |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **01-spring-foundations** | - | - | - | - | - | - | - | Phase 1 | `TODO` |
-| **02-ioc-and-dependency-injection** | - | - | - | - | - | - | - | Phase 1 | `TODO` |
-| **03-bean-lifecycle-and-configuration** | - | - | - | - | - | - | - | Phase 1 | `TODO` |
+| **01-spring-foundations** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
+| **02-ioc-and-dependency-injection** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
+| **03-bean-lifecycle-and-configuration** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
 | **04-spring-aop** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
 | **05-spring-boot-fundamentals** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
 | **06-auto-configuration** | - | - | - | - | - | - | - | Phase 2 | `TODO` |

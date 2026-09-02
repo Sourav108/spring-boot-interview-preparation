@@ -11,9 +11,9 @@
 
 | Module ID | Module Name | Phase | Key Architecture Focus | Status |
 |:---:|---|:---:|---|:---:|
-| **MOD-01** | [`01-spring-foundations`](./01-spring-foundations/) | Phase 1 | Spring Framework vs Spring Boot, ApplicationContext, BeanFactory, IoC & DI. | `TODO` |
-| **MOD-02** | [`02-ioc-and-dependency-injection`](./02-ioc-and-dependency-injection/) | Phase 1 | Dependency injection mechanisms, constructor injection, circular dependencies, qualifier/primary. | `TODO` |
-| **MOD-03** | [`03-bean-lifecycle-and-configuration`](./03-bean-lifecycle-and-configuration/) | Phase 1 | BeanDefinition, BeanPostProcessor, Aware callbacks, scopes (Singleton/Prototype), lazy init. | `TODO` |
+| **MOD-01** | [`01-spring-foundations`](./01-spring-foundations/) | Phase 1 | Spring Framework vs Spring Boot, ApplicationContext, BeanFactory, IoC & DI. | `COMPLETE` ✅ |
+| **MOD-02** | [`02-ioc-and-dependency-injection`](./02-ioc-and-dependency-injection/) | Phase 1 | Dependency injection mechanisms, constructor injection, circular dependencies, qualifier/primary. | `COMPLETE` ✅ |
+| **MOD-03** | [`03-bean-lifecycle-and-configuration`](./03-bean-lifecycle-and-configuration/) | Phase 1 | BeanDefinition, BeanPostProcessor, Aware callbacks, scopes (Singleton/Prototype), lazy init. | `COMPLETE` ✅ |
 | **MOD-04** | [`04-spring-aop`](./04-spring-aop/) | Phase 2 | Proxy-based AOP, JDK dynamic vs CGLIB class proxies, join points, pointcuts, self-invocation traps. | `TODO` |
 | **MOD-05** | [`05-spring-boot-fundamentals`](./05-spring-boot-fundamentals/) | Phase 2 | SpringApplication startup lifecycle, embedded web servers (Tomcat), starter dependencies, logging. | `TODO` |
 | **MOD-06** | [`06-auto-configuration`](./06-auto-configuration/) | Phase 2 | Auto-configuration discovery, conditional evaluation (@ConditionalOnMissingBean), custom starters. | `TODO` |
