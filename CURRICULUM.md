@@ -14,10 +14,10 @@
 | **MOD-01** | [`01-spring-foundations`](./01-spring-foundations/) | Phase 1 | Spring Framework vs Spring Boot, ApplicationContext, BeanFactory, IoC & DI. | `COMPLETE` ✅ |
 | **MOD-02** | [`02-ioc-and-dependency-injection`](./02-ioc-and-dependency-injection/) | Phase 1 | Dependency injection mechanisms, constructor injection, circular dependencies, qualifier/primary. | `COMPLETE` ✅ |
 | **MOD-03** | [`03-bean-lifecycle-and-configuration`](./03-bean-lifecycle-and-configuration/) | Phase 1 | BeanDefinition, BeanPostProcessor, Aware callbacks, scopes (Singleton/Prototype), lazy init. | `COMPLETE` ✅ |
-| **MOD-04** | [`04-spring-aop`](./04-spring-aop/) | Phase 2 | Proxy-based AOP, JDK dynamic vs CGLIB class proxies, join points, pointcuts, self-invocation traps. | `TODO` |
-| **MOD-05** | [`05-spring-boot-fundamentals`](./05-spring-boot-fundamentals/) | Phase 2 | SpringApplication startup lifecycle, embedded web servers (Tomcat), starter dependencies, logging. | `TODO` |
-| **MOD-06** | [`06-auto-configuration`](./06-auto-configuration/) | Phase 2 | Auto-configuration discovery, conditional evaluation (@ConditionalOnMissingBean), custom starters. | `TODO` |
-| **MOD-07** | [`07-configuration-and-properties`](./07-configuration-and-properties/) | Phase 2 | @ConfigurationProperties, YAML/Properties precedence, profile resolution, startup validation. | `TODO` |
+| **MOD-04** | [`04-spring-aop`](./04-spring-aop/) | Phase 2 | Proxy-based AOP, JDK dynamic vs CGLIB class proxies, join points, pointcuts, self-invocation traps. | `COMPLETE` ✅ |
+| **MOD-05** | [`05-spring-boot-fundamentals`](./05-spring-boot-fundamentals/) | Phase 2 | SpringApplication startup lifecycle, embedded web servers (Tomcat), starter dependencies, logging. | `COMPLETE` ✅ |
+| **MOD-06** | [`06-auto-configuration`](./06-auto-configuration/) | Phase 2 | Auto-configuration discovery, conditional evaluation (@ConditionalOnMissingBean), custom starters. | `COMPLETE` ✅ |
+| **MOD-07** | [`07-configuration-and-properties`](./07-configuration-and-properties/) | Phase 2 | @ConfigurationProperties, YAML/Properties precedence, profile resolution, startup validation. | `COMPLETE` ✅ |
 | **MOD-08** | [`08-spring-web-mvc`](./08-spring-web-mvc/) | Phase 3 | DispatcherServlet request flow, HandlerMapping, HandlerAdapter, argument resolvers, message converters. | `TODO` |
 | **MOD-09** | [`09-rest-api-development`](./09-rest-api-development/) | Phase 3 | REST API design, idempotency, pagination/sorting, DTO mapping, OpenAPI/Swagger contracts. | `TODO` |
 | **MOD-10** | [`10-validation-and-error-handling`](./10-validation-and-error-handling/) | Phase 3 | Bean Validation (@Valid), custom validators, @RestControllerAdvice, RFC 7807 Problem Details. | `TODO` |

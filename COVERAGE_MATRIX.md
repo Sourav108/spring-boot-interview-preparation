@@ -12,10 +12,10 @@
 | **01-spring-foundations** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
 | **02-ioc-and-dependency-injection** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
 | **03-bean-lifecycle-and-configuration** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 1 | `COMPLETE` ✅ |
-| **04-spring-aop** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
-| **05-spring-boot-fundamentals** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
-| **06-auto-configuration** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
-| **07-configuration-and-properties** | - | - | - | - | - | - | - | Phase 2 | `TODO` |
+| **04-spring-aop** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
+| **05-spring-boot-fundamentals** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
+| **06-auto-configuration** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
+| **07-configuration-and-properties** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
 | **08-spring-web-mvc** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
 | **09-rest-api-development** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
 | **10-validation-and-error-handling** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
