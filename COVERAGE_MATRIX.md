@@ -27,9 +27,9 @@
 | **16-oauth2-and-jwt** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 5 | `COMPLETE` ✅ |
 | **17-spring-cache-and-redis** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 6 | `COMPLETE` ✅ |
 | **18-spring-kafka-and-messaging** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 6 | `COMPLETE` ✅ |
-| **19-spring-cloud-and-microservices** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
-| **20-resilience-and-fault-tolerance** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
-| **21-testing-spring-applications** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
+| **19-spring-cloud-and-microservices** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
+| **20-resilience-and-fault-tolerance** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
+| **21-testing-spring-applications** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
 | **22-observability-and-production** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
 | **23-performance-and-tuning** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
 | **24-reactive-spring-webflux** | - | - | - | - | - | - | - | Phase 8 | `TODO` |

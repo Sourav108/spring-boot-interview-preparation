@@ -29,9 +29,9 @@
 | **MOD-16** | [`16-oauth2-and-jwt`](./16-oauth2-and-jwt/) | Phase 5 | OAuth 2.0 grant types, JWT token parsing and validation, Spring Security Resource Server. | `COMPLETE` ✅ |
 | **MOD-17** | [`17-spring-cache-and-redis`](./17-spring-cache-and-redis/) | Phase 6 | @Cacheable proxies, RedisTemplate, Lettuce client, cache stampede prevention, distributed locks. | `COMPLETE` ✅ |
 | **MOD-18** | [`18-spring-kafka-and-messaging`](./18-spring-kafka-and-messaging/) | Phase 6 | KafkaTemplate, @KafkaListener, consumer concurrency, dead letter topics (DLT), outbox pattern. | `COMPLETE` ✅ |
-| **MOD-19** | [`19-spring-cloud-and-microservices`](./19-spring-cloud-and-microservices/) | Phase 7 | Spring Cloud Gateway, OpenFeign declarative clients, service discovery, distributed config. | `TODO` |
-| **MOD-20** | [`20-resilience-and-fault-tolerance`](./20-resilience-and-fault-tolerance/) | Phase 7 | Resilience4j circuit breakers, rate limiters, retries with exponential backoff, bulkheads. | `TODO` |
-| **MOD-21** | [`21-testing-spring-applications`](./21-testing-spring-applications/) | Phase 7 | @SpringBootTest, @WebMvcTest, @DataJpaTest, MockMvc, Testcontainers with PostgreSQL & Kafka. | `TODO` |
+| **MOD-19** | [`19-spring-cloud-and-microservices`](./19-spring-cloud-and-microservices/) | Phase 7 | Spring Cloud Gateway, OpenFeign declarative clients, service discovery, distributed config. | `COMPLETE` ✅ |
+| **MOD-20** | [`20-resilience-and-fault-tolerance`](./20-resilience-and-fault-tolerance/) | Phase 7 | Resilience4j circuit breakers, rate limiters, retries with exponential backoff, bulkheads. | `COMPLETE` ✅ |
+| **MOD-21** | [`21-testing-spring-applications`](./21-testing-spring-applications/) | Phase 7 | @SpringBootTest, @WebMvcTest, @DataJpaTest, MockMvc, Testcontainers with PostgreSQL & Kafka. | `COMPLETE` ✅ |
 | **MOD-22** | [`22-observability-and-production`](./22-observability-and-production/) | Phase 7 | Actuator health probes, Micrometer metrics, OpenTelemetry distributed tracing, Golden Signals. | `TODO` |
 | **MOD-23** | [`23-performance-and-tuning`](./23-performance-and-tuning/) | Phase 7 | Systematic latency bottleneck diagnosis, connection pool tuning, GC interaction, async workers. | `TODO` |
 | **MOD-24** | [`24-reactive-spring-webflux`](./24-reactive-spring-webflux/) | Phase 8 | Project Reactor (Mono/Flux), non-blocking I/O, WebFlux event loops vs Java 21 Virtual Threads. | `TODO` |

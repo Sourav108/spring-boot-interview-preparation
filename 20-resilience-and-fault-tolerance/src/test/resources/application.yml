@@ -1,0 +1,21 @@
+resilience4j:
+  circuitbreaker:
+    instances:
+      paymentGateway:
+        slidingWindowType: COUNT_BASED
+        slidingWindowSize: 5
+        minimumNumberOfCalls: 3
+        failureRateThreshold: 50.0
+        waitDurationInOpenState: 5000ms
+        permittedNumberOfCallsInHalfOpenState: 2
+  retry:
+    instances:
+      paymentGateway:
+        maxAttempts: 2
+        waitDuration: 50ms
+  ratelimiter:
+    instances:
+      paymentGateway:
+        limitForPeriod: 50
+        limitRefreshPeriod: 1s
+        timeoutDuration: 10ms
