@@ -25,8 +25,8 @@
 | **MOD-12** | [`12-spring-data-jpa-and-hibernate`](./12-spring-data-jpa-and-hibernate/) | Phase 4 | EntityManager, persistence context, dirty checking, entity lifecycle, N+1 query mitigations. | `COMPLETE` ✅ |
 | **MOD-13** | [`13-transactions-and-concurrency`](./13-transactions-and-concurrency/) | Phase 4 | @Transactional proxy boundaries, propagation, isolation levels, optimistic/pessimistic locking. | `COMPLETE` ✅ |
 | **MOD-14** | [`14-database-migrations`](./14-database-migrations/) | Phase 4 | Flyway & Liquibase migrations, zero-downtime expand/contract schema evolution, ddl-auto: validate. | `COMPLETE` ✅ |
-| **MOD-15** | [`15-spring-security`](./15-spring-security/) | Phase 5 | SecurityFilterChain architecture, authentication, authorization, SecurityContext, method security. | `TODO` |
-| **MOD-16** | [`16-oauth2-and-jwt`](./16-oauth2-and-jwt/) | Phase 5 | OAuth 2.0 grant types, JWT token parsing and validation, Spring Security Resource Server. | `TODO` |
+| **MOD-15** | [`15-spring-security`](./15-spring-security/) | Phase 5 | SecurityFilterChain architecture, authentication, authorization, SecurityContext, method security. | `COMPLETE` ✅ |
+| **MOD-16** | [`16-oauth2-and-jwt`](./16-oauth2-and-jwt/) | Phase 5 | OAuth 2.0 grant types, JWT token parsing and validation, Spring Security Resource Server. | `COMPLETE` ✅ |
 | **MOD-17** | [`17-spring-cache-and-redis`](./17-spring-cache-and-redis/) | Phase 6 | @Cacheable proxies, RedisTemplate, Lettuce client, cache stampede prevention, distributed locks. | `TODO` |
 | **MOD-18** | [`18-spring-kafka-and-messaging`](./18-spring-kafka-and-messaging/) | Phase 6 | KafkaTemplate, @KafkaListener, consumer concurrency, dead letter topics (DLT), outbox pattern. | `TODO` |
 | **MOD-19** | [`19-spring-cloud-and-microservices`](./19-spring-cloud-and-microservices/) | Phase 7 | Spring Cloud Gateway, OpenFeign declarative clients, service discovery, distributed config. | `TODO` |

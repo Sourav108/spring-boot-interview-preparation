@@ -23,8 +23,8 @@
 | **12-spring-data-jpa-and-hibernate** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
 | **13-transactions-and-concurrency** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
 | **14-database-migrations** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
-| **15-spring-security** | - | - | - | - | - | - | - | Phase 5 | `TODO` |
-| **16-oauth2-and-jwt** | - | - | - | - | - | - | - | Phase 5 | `TODO` |
+| **15-spring-security** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 5 | `COMPLETE` ✅ |
+| **16-oauth2-and-jwt** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 5 | `COMPLETE` ✅ |
 | **17-spring-cache-and-redis** | - | - | - | - | - | - | - | Phase 6 | `TODO` |
 | **18-spring-kafka-and-messaging** | - | - | - | - | - | - | - | Phase 6 | `TODO` |
 | **19-spring-cloud-and-microservices** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
