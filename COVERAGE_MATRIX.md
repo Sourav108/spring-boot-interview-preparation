@@ -16,9 +16,9 @@
 | **05-spring-boot-fundamentals** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
 | **06-auto-configuration** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
 | **07-configuration-and-properties** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 2 | `COMPLETE` ✅ |
-| **08-spring-web-mvc** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
-| **09-rest-api-development** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
-| **10-validation-and-error-handling** | - | - | - | - | - | - | - | Phase 3 | `TODO` |
+| **08-spring-web-mvc** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
+| **09-rest-api-development** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
+| **10-validation-and-error-handling** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
 | **11-spring-jdbc-and-connection-pooling** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
 | **12-spring-data-jpa-and-hibernate** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
 | **13-transactions-and-concurrency** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
