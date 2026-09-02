@@ -33,12 +33,12 @@
 | **22-observability-and-production** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
 | **23-performance-and-tuning** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
 | **24-reactive-spring-webflux** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 8 | `COMPLETE` ✅ |
-| **25-modern-spring** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
-| **26-production-architecture** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
-| **27-projects** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
-| **28-interview-questions** | - | - | - | - | - | - | - | Phase 9 | `TODO` |
-| **29-debugging-scenarios** | - | - | - | - | - | - | - | Phase 9 | `TODO` |
-| **30-cheatsheets** | - | - | - | - | - | - | - | Phase 9 | `TODO` |
+| **25-modern-spring** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 8 | `COMPLETE` ✅ |
+| **26-production-architecture** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 8 | `COMPLETE` ✅ |
+| **27-projects** | ✓ | ✓ | ✓ | - | ✓ | ✓ | 12 | Phase 8 | `COMPLETE` ✅ |
+| **28-interview-guide** | ✓ | ✓ | - | - | ✓ | ✓ | - | Phase 9 | `COMPLETE` ✅ |
+| **29-question-bank** | ✓ | - | - | - | - | ✓ | - | Phase 9 | `COMPLETE` ✅ |
+| **30-cheatsheets** | ✓ | - | - | - | - | ✓ | - | Phase 9 | `COMPLETE` ✅ |
 
 ---
 

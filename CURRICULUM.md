@@ -35,12 +35,12 @@
 | **MOD-22** | [`22-observability-and-production`](./22-observability-and-production/) | Phase 7 | Actuator health probes, Micrometer metrics, OpenTelemetry distributed tracing, Golden Signals. | `COMPLETE` ✅ |
 | **MOD-23** | [`23-performance-and-tuning`](./23-performance-and-tuning/) | Phase 7 | Systematic latency bottleneck diagnosis, connection pool tuning, GC interaction, async workers. | `COMPLETE` ✅ |
 | **MOD-24** | [`24-reactive-spring-webflux`](./24-reactive-spring-webflux/) | Phase 8 | Project Reactor (Mono/Flux), non-blocking I/O, WebFlux event loops vs Java 21 Virtual Threads. | `COMPLETE` ✅ |
-| **MOD-25** | [`25-modern-spring`](./25-modern-spring/) | Phase 8 | Virtual Threads in Spring Boot 3.4, Spring AOT, GraalVM native images, modern HTTP interfaces. | `TODO` |
-| **MOD-26** | [`26-production-architecture`](./26-production-architecture/) | Phase 8 | Modular Monoliths vs Microservices, Hexagonal/Clean architecture, domain boundary enforcement. | `TODO` |
-| **MOD-27** | [`27-projects`](./27-projects/) | Phase 8 | 12 progressively challenging, runnable production capstone projects with full Docker/DB support. | `TODO` |
-| **MOD-28** | [`28-interview-questions`](./28-interview-questions/) | Phase 9 | 300+ categorized technical interview questions with deep answers, common traps, and follow-ups. | `TODO` |
-| **MOD-29** | [`29-debugging-scenarios`](./29-debugging-scenarios/) | Phase 9 | 40+ production outage post-mortems using the structured SPRING-DEBUG root-cause framework. | `TODO` |
-| **MOD-30** | [`30-cheatsheets`](./30-cheatsheets/) | Phase 9 | Comprehensive, fast-lookup architectural cheat sheets across all Spring engineering domains. | `TODO` |
+| **MOD-25** | [`25-modern-spring`](./25-modern-spring/) | Phase 8 | Virtual Threads in Spring Boot 3.4, Spring AOT, GraalVM native images, modern HTTP interfaces. | `COMPLETE` ✅ |
+| **MOD-26** | [`26-production-architecture`](./26-production-architecture/) | Phase 8 | Modular Monoliths vs Microservices, Hexagonal/Clean architecture, domain boundary enforcement. | `COMPLETE` ✅ |
+| **MOD-27** | [`27-projects`](./27-projects/) | Phase 8 | 12 progressively challenging, runnable production capstone projects with full Docker/DB support. | `COMPLETE` ✅ |
+| **MOD-28** | [`28-interview-guide`](./28-interview-guide/) | Phase 9 | Role-based interview preparation guides: SDE2, Senior, Staff/Principal Architect levels. | `COMPLETE` ✅ |
+| **MOD-29** | [`29-question-bank`](./29-question-bank/) | Phase 9 | Categorized 300+ technical questions with complete model answers, trade-offs, and follow-ups. | `COMPLETE` ✅ |
+| **MOD-30** | [`30-cheatsheets`](./30-cheatsheets/) | Phase 9 | Rapid-review cheatsheets: Annotations, Properties, SQL/JPA, Security, Kafka, Resilience4j. | `COMPLETE` ✅ |
 
 ---
 
