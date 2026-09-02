@@ -21,10 +21,10 @@
 | **MOD-08** | [`08-spring-web-mvc`](./08-spring-web-mvc/) | Phase 3 | DispatcherServlet request flow, HandlerMapping, HandlerAdapter, argument resolvers, message converters. | `COMPLETE` ✅ |
 | **MOD-09** | [`09-rest-api-development`](./09-rest-api-development/) | Phase 3 | REST API design, idempotency, pagination/sorting, DTO mapping, OpenAPI/Swagger contracts. | `COMPLETE` ✅ |
 | **MOD-10** | [`10-validation-and-error-handling`](./10-validation-and-error-handling/) | Phase 3 | Bean Validation (@Valid), custom validators, @RestControllerAdvice, RFC 7807 Problem Details. | `COMPLETE` ✅ |
-| **MOD-11** | [`11-spring-jdbc-and-connection-pooling`](./11-spring-jdbc-and-connection-pooling/) | Phase 4 | JdbcTemplate, DataSource management, HikariCP connection pool sizing, Spring Data JDBC compare. | `TODO` |
-| **MOD-12** | [`12-spring-data-jpa-and-hibernate`](./12-spring-data-jpa-and-hibernate/) | Phase 4 | EntityManager, persistence context, dirty checking, entity lifecycle, N+1 query mitigations. | `TODO` |
-| **MOD-13** | [`13-transactions-and-concurrency`](./13-transactions-and-concurrency/) | Phase 4 | @Transactional proxy boundaries, propagation, isolation levels, optimistic/pessimistic locking. | `TODO` |
-| **MOD-14** | [`14-database-migrations`](./14-database-migrations/) | Phase 4 | Flyway & Liquibase migrations, zero-downtime expand/contract schema evolution, ddl-auto: validate. | `TODO` |
+| **MOD-11** | [`11-spring-jdbc-and-connection-pooling`](./11-spring-jdbc-and-connection-pooling/) | Phase 4 | JdbcTemplate, DataSource management, HikariCP connection pool sizing, Spring Data JDBC compare. | `COMPLETE` ✅ |
+| **MOD-12** | [`12-spring-data-jpa-and-hibernate`](./12-spring-data-jpa-and-hibernate/) | Phase 4 | EntityManager, persistence context, dirty checking, entity lifecycle, N+1 query mitigations. | `COMPLETE` ✅ |
+| **MOD-13** | [`13-transactions-and-concurrency`](./13-transactions-and-concurrency/) | Phase 4 | @Transactional proxy boundaries, propagation, isolation levels, optimistic/pessimistic locking. | `COMPLETE` ✅ |
+| **MOD-14** | [`14-database-migrations`](./14-database-migrations/) | Phase 4 | Flyway & Liquibase migrations, zero-downtime expand/contract schema evolution, ddl-auto: validate. | `COMPLETE` ✅ |
 | **MOD-15** | [`15-spring-security`](./15-spring-security/) | Phase 5 | SecurityFilterChain architecture, authentication, authorization, SecurityContext, method security. | `TODO` |
 | **MOD-16** | [`16-oauth2-and-jwt`](./16-oauth2-and-jwt/) | Phase 5 | OAuth 2.0 grant types, JWT token parsing and validation, Spring Security Resource Server. | `TODO` |
 | **MOD-17** | [`17-spring-cache-and-redis`](./17-spring-cache-and-redis/) | Phase 6 | @Cacheable proxies, RedisTemplate, Lettuce client, cache stampede prevention, distributed locks. | `TODO` |

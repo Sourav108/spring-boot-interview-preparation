@@ -19,10 +19,10 @@
 | **08-spring-web-mvc** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
 | **09-rest-api-development** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
 | **10-validation-and-error-handling** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 3 | `COMPLETE` ✅ |
-| **11-spring-jdbc-and-connection-pooling** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
-| **12-spring-data-jpa-and-hibernate** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
-| **13-transactions-and-concurrency** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
-| **14-database-migrations** | - | - | - | - | - | - | - | Phase 4 | `TODO` |
+| **11-spring-jdbc-and-connection-pooling** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
+| **12-spring-data-jpa-and-hibernate** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
+| **13-transactions-and-concurrency** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
+| **14-database-migrations** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
 | **15-spring-security** | - | - | - | - | - | - | - | Phase 5 | `TODO` |
 | **16-oauth2-and-jwt** | - | - | - | - | - | - | - | Phase 5 | `TODO` |
 | **17-spring-cache-and-redis** | - | - | - | - | - | - | - | Phase 6 | `TODO` |
