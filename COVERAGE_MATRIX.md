@@ -25,8 +25,8 @@
 | **14-database-migrations** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 4 | `COMPLETE` ✅ |
 | **15-spring-security** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 5 | `COMPLETE` ✅ |
 | **16-oauth2-and-jwt** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 5 | `COMPLETE` ✅ |
-| **17-spring-cache-and-redis** | - | - | - | - | - | - | - | Phase 6 | `TODO` |
-| **18-spring-kafka-and-messaging** | - | - | - | - | - | - | - | Phase 6 | `TODO` |
+| **17-spring-cache-and-redis** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 6 | `COMPLETE` ✅ |
+| **18-spring-kafka-and-messaging** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 6 | `COMPLETE` ✅ |
 | **19-spring-cloud-and-microservices** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
 | **20-resilience-and-fault-tolerance** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
 | **21-testing-spring-applications** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
