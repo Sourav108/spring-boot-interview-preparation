@@ -32,9 +32,9 @@
 | **MOD-19** | [`19-spring-cloud-and-microservices`](./19-spring-cloud-and-microservices/) | Phase 7 | Spring Cloud Gateway, OpenFeign declarative clients, service discovery, distributed config. | `COMPLETE` ✅ |
 | **MOD-20** | [`20-resilience-and-fault-tolerance`](./20-resilience-and-fault-tolerance/) | Phase 7 | Resilience4j circuit breakers, rate limiters, retries with exponential backoff, bulkheads. | `COMPLETE` ✅ |
 | **MOD-21** | [`21-testing-spring-applications`](./21-testing-spring-applications/) | Phase 7 | @SpringBootTest, @WebMvcTest, @DataJpaTest, MockMvc, Testcontainers with PostgreSQL & Kafka. | `COMPLETE` ✅ |
-| **MOD-22** | [`22-observability-and-production`](./22-observability-and-production/) | Phase 7 | Actuator health probes, Micrometer metrics, OpenTelemetry distributed tracing, Golden Signals. | `TODO` |
-| **MOD-23** | [`23-performance-and-tuning`](./23-performance-and-tuning/) | Phase 7 | Systematic latency bottleneck diagnosis, connection pool tuning, GC interaction, async workers. | `TODO` |
-| **MOD-24** | [`24-reactive-spring-webflux`](./24-reactive-spring-webflux/) | Phase 8 | Project Reactor (Mono/Flux), non-blocking I/O, WebFlux event loops vs Java 21 Virtual Threads. | `TODO` |
+| **MOD-22** | [`22-observability-and-production`](./22-observability-and-production/) | Phase 7 | Actuator health probes, Micrometer metrics, OpenTelemetry distributed tracing, Golden Signals. | `COMPLETE` ✅ |
+| **MOD-23** | [`23-performance-and-tuning`](./23-performance-and-tuning/) | Phase 7 | Systematic latency bottleneck diagnosis, connection pool tuning, GC interaction, async workers. | `COMPLETE` ✅ |
+| **MOD-24** | [`24-reactive-spring-webflux`](./24-reactive-spring-webflux/) | Phase 8 | Project Reactor (Mono/Flux), non-blocking I/O, WebFlux event loops vs Java 21 Virtual Threads. | `COMPLETE` ✅ |
 | **MOD-25** | [`25-modern-spring`](./25-modern-spring/) | Phase 8 | Virtual Threads in Spring Boot 3.4, Spring AOT, GraalVM native images, modern HTTP interfaces. | `TODO` |
 | **MOD-26** | [`26-production-architecture`](./26-production-architecture/) | Phase 8 | Modular Monoliths vs Microservices, Hexagonal/Clean architecture, domain boundary enforcement. | `TODO` |
 | **MOD-27** | [`27-projects`](./27-projects/) | Phase 8 | 12 progressively challenging, runnable production capstone projects with full Docker/DB support. | `TODO` |

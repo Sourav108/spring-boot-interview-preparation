@@ -30,9 +30,9 @@
 | **19-spring-cloud-and-microservices** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
 | **20-resilience-and-fault-tolerance** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
 | **21-testing-spring-applications** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
-| **22-observability-and-production** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
-| **23-performance-and-tuning** | - | - | - | - | - | - | - | Phase 7 | `TODO` |
-| **24-reactive-spring-webflux** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
+| **22-observability-and-production** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
+| **23-performance-and-tuning** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 7 | `COMPLETE` ✅ |
+| **24-reactive-spring-webflux** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | - | Phase 8 | `COMPLETE` ✅ |
 | **25-modern-spring** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
 | **26-production-architecture** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
 | **27-projects** | - | - | - | - | - | - | - | Phase 8 | `TODO` |
